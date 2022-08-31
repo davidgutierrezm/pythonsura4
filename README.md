@@ -1,2 +1,3 @@
-# pythonsura4
-Condicionales y ciclos con python
+# Ciclos y Condiciones con Python
+
+## Programado por: David Gutiérrez Muñoz
